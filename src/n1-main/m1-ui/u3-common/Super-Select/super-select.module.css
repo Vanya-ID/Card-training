@@ -1,0 +1,19 @@
+.select{
+    width: 140px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    height: 27px;
+    background: rgba(255, 255, 255, 0.3);
+    background-position-x: 117px;
+}
+.select:focus{
+    outline: none;
+}
+.option{
+    color: #d1c8c8;
+    background-color: #282c34;
+}
+.option:checked{
+    background-color: #50719d;
+}
