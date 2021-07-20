@@ -1,9 +1,9 @@
-import SuperInputText from "../../n1-main/m1-ui/u3-common/Super-Input/SuperInputText";
-import SuperCheckbox from "../../n1-main/m1-ui/u3-common/Super-CheckBox/SuperCheckBox";
-import SuperButton from "../../n1-main/m1-ui/u3-common/Super-Button/SuperButton";
-import SuperEditableSpan from "../../n1-main/m1-ui/u3-common/Super-Editable-Span/SuperEditableSpan";
+import SuperInputText from "../../n1-main/m1-ui/u3-common/Super-Components/Super-Input/SuperInputText";
+import SuperCheckbox from "../../n1-main/m1-ui/u3-common/Super-Components/Super-CheckBox/SuperCheckBox";
+import SuperButton from "../../n1-main/m1-ui/u3-common/Super-Components/Super-Button/SuperButton";
+import SuperEditableSpan from "../../n1-main/m1-ui/u3-common/Super-Components/Super-Editable-Span/SuperEditableSpan";
 import {useState} from "react";
-import SuperSelect from "../../n1-main/m1-ui/u3-common/Super-Select/SuperSelect";
+import SuperSelect from "../../n1-main/m1-ui/u3-common/Super-Components/Super-Select/SuperSelect";
 
 const arr = ['x', 'y', 'z']
 
